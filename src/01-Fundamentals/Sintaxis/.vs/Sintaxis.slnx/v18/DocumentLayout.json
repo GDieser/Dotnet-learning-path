@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\germa\\OneDrive\\Escritorio\\.Net Cursos\\Dotnet-learning-path\\src\\01-Fundamentals\\Sintaxis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB5D802-BFE3-474D-AF36-98E1E88842B0}|Sintaxis\\Sintaxis.csproj|c:\\users\\germa\\onedrive\\escritorio\\.net cursos\\dotnet-learning-path\\src\\01-fundamentals\\sintaxis\\sintaxis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB5D802-BFE3-474D-AF36-98E1E88842B0}|Sintaxis\\Sintaxis.csproj|solutionrelative:sintaxis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\germa\\OneDrive\\Escritorio\\.Net Cursos\\Dotnet-learning-path\\src\\01-Fundamentals\\Sintaxis\\Sintaxis\\Program.cs",
+              "RelativeDocumentMoniker": "Sintaxis\\Program.cs",
+              "ToolTip": "C:\\Users\\germa\\OneDrive\\Escritorio\\.Net Cursos\\Dotnet-learning-path\\src\\01-Fundamentals\\Sintaxis\\Sintaxis\\Program.cs",
+              "RelativeToolTip": "Sintaxis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T00:29:24.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
