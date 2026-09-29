@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{BEB5D802-BFE3-474D-AF36-98E1E88842B0}|Sintaxis\\Sintaxis.csproj|c:\\users\\germa\\onedrive\\escritorio\\.net cursos\\dotnet-learning-path\\src\\01-fundamentals\\sintaxis\\sintaxis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEB5D802-BFE3-474D-AF36-98E1E88842B0}|Sintaxis\\Sintaxis.csproj|solutionrelative:sintaxis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB5D802-BFE3-474D-AF36-98E1E88842B0}|Sintaxis\\Sintaxis.csproj|c:\\users\\germa\\onedrive\\escritorio\\.net cursos\\dotnet-learning-path\\src\\01-fundamentals\\sintaxis\\sintaxis\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB5D802-BFE3-474D-AF36-98E1E88842B0}|Sintaxis\\Sintaxis.csproj|solutionrelative:sintaxis\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB5D802-BFE3-474D-AF36-98E1E88842B0}|Sintaxis\\Sintaxis.csproj|c:\\users\\germa\\onedrive\\escritorio\\.net cursos\\dotnet-learning-path\\src\\01-fundamentals\\sintaxis\\sintaxis\\botella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB5D802-BFE3-474D-AF36-98E1E88842B0}|Sintaxis\\Sintaxis.csproj|solutionrelative:sintaxis\\botella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB5D802-BFE3-474D-AF36-98E1E88842B0}|Sintaxis\\Sintaxis.csproj|c:\\users\\germa\\onedrive\\escritorio\\.net cursos\\dotnet-learning-path\\src\\01-fundamentals\\sintaxis\\sintaxis\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB5D802-BFE3-474D-AF36-98E1E88842B0}|Sintaxis\\Sintaxis.csproj|solutionrelative:sintaxis\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Perro.cs",
+              "DocumentMoniker": "C:\\Users\\germa\\OneDrive\\Escritorio\\.Net Cursos\\Dotnet-learning-path\\src\\01-Fundamentals\\Sintaxis\\Sintaxis\\Perro.cs",
+              "RelativeDocumentMoniker": "Sintaxis\\Perro.cs",
+              "ToolTip": "C:\\Users\\germa\\OneDrive\\Escritorio\\.Net Cursos\\Dotnet-learning-path\\src\\01-Fundamentals\\Sintaxis\\Sintaxis\\Perro.cs",
+              "RelativeToolTip": "Sintaxis\\Perro.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T00:16:30.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Botella.cs",
+              "DocumentMoniker": "C:\\Users\\germa\\OneDrive\\Escritorio\\.Net Cursos\\Dotnet-learning-path\\src\\01-Fundamentals\\Sintaxis\\Sintaxis\\Botella.cs",
+              "RelativeDocumentMoniker": "Sintaxis\\Botella.cs",
+              "ToolTip": "C:\\Users\\germa\\OneDrive\\Escritorio\\.Net Cursos\\Dotnet-learning-path\\src\\01-Fundamentals\\Sintaxis\\Sintaxis\\Botella.cs",
+              "RelativeToolTip": "Sintaxis\\Botella.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T00:16:22.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\germa\\OneDrive\\Escritorio\\.Net Cursos\\Dotnet-learning-path\\src\\01-Fundamentals\\Sintaxis\\Sintaxis\\Persona.cs",
+              "RelativeDocumentMoniker": "Sintaxis\\Persona.cs",
+              "ToolTip": "C:\\Users\\germa\\OneDrive\\Escritorio\\.Net Cursos\\Dotnet-learning-path\\src\\01-Fundamentals\\Sintaxis\\Sintaxis\\Persona.cs",
+              "RelativeToolTip": "Sintaxis\\Persona.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T00:16:11.013Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,14 +75,10 @@
               "RelativeDocumentMoniker": "Sintaxis\\Program.cs",
               "ToolTip": "C:\\Users\\germa\\OneDrive\\Escritorio\\.Net Cursos\\Dotnet-learning-path\\src\\01-Fundamentals\\Sintaxis\\Sintaxis\\Program.cs",
               "RelativeToolTip": "Sintaxis\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBQAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T00:26:30.082Z",
+              "WhenOpened": "2026-09-28T00:29:24.285Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
