@@ -20,5 +20,11 @@ namespace Sintaxis
         public int Sueldo{ get { return sueldo; } set { sueldo = value; } }
 
         public string Nombre{ get { return nombre; } set { nombre = value; } }
+
+        //Metodo
+        public String Saludar()
+        {
+            return "Hola " + nombre;
+        }
     }
 }

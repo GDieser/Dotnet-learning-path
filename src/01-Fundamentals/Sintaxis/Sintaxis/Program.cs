@@ -21,6 +21,7 @@ namespace Sintaxis
             persona.Sueldo = 30000;
 
             Console.WriteLine("Persona: " + persona.Nombre + ", Edad: " + persona.Edad);
+            Console.WriteLine(persona.Saludar());
 
             for (int i = 0; i < 10; i++)
             {
@@ -29,7 +30,7 @@ namespace Sintaxis
                 art[i].CodigoMarca = int.Parse(Console.ReadLine());
             }
 
-
+            Botella botella2 = new Botella("Rojo", "Plastico");
 
         }
     }

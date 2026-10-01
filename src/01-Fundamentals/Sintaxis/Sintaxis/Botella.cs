@@ -8,6 +8,22 @@ namespace Sintaxis
 {
     internal class Botella
     {
+        //Contructor
+        public Botella(string color, string material)
+        {
+            this.color = color;
+            this.material = material;
+        }
+
+        //Sobrecarga
+        public Botella() { }
+
+        //Destructor
+        ~Botella() 
+        { 
+            //logica
+        }
+
         private int capacidad;
         private string color;
         private string material;
