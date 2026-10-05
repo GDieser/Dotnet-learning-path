@@ -14,6 +14,7 @@ namespace Sintaxis
             Persona persona = new Persona();
             Botella botella = new Botella();
 
+
             Articulo[] art = new Articulo[10];
 
             persona.Nombre = "German";
@@ -31,6 +32,18 @@ namespace Sintaxis
             }
 
             Botella botella2 = new Botella("Rojo", "Plastico");
+
+            //Ejemploherencia
+            Persona p1 = new Tester();
+
+            List<Persona> p2 = new List<Persona>();
+            p2.Add(p1);
+            p2.Add(persona);
+            
+            foreach(Persona item  in p2)
+            {
+                //Recorre la lista
+            }
 
         }
     }
