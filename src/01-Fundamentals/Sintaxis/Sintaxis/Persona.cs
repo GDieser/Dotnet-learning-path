@@ -26,5 +26,16 @@ namespace Sintaxis
         {
             return "Hola " + nombre;
         }
+
+        public override string ToString()
+        {
+            return "Hola" + nombre;
+        }
+
+        public virtual string Comunicarse()
+        {
+            return "Hola";
+
+        }
     }
 }

@@ -9,5 +9,11 @@ namespace Sintaxis
     internal class Tester : Persona
     {
         public String puesto { get; set; }
+
+        public override string Comunicarse()
+        {
+            return "Hola Tester";
+
+        }
     }
 }
