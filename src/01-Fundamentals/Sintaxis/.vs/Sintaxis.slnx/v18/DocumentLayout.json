@@ -42,8 +42,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\germa\\Desktop\\Practicas\\.Net\\Dotnet-learning-path\\src\\01-Fundamentals\\Sintaxis\\Sintaxis\\Program.cs",
+              "RelativeDocumentMoniker": "Sintaxis\\Program.cs",
+              "ToolTip": "C:\\Users\\germa\\Desktop\\Practicas\\.Net\\Dotnet-learning-path\\src\\01-Fundamentals\\Sintaxis\\Sintaxis\\Program.cs",
+              "RelativeToolTip": "Sintaxis\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T00:29:24.285Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -66,8 +79,7 @@
               "RelativeToolTip": "Sintaxis\\Tester.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T23:44:05.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T23:44:05.061Z"
             },
             {
               "$type": "Document",
@@ -91,8 +103,7 @@
               "RelativeToolTip": "Sintaxis\\Articulo.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T00:20:50.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-30T00:20:50.214Z"
             },
             {
               "$type": "Document",
@@ -128,21 +139,7 @@
               "RelativeToolTip": "Sintaxis\\Persona.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAzwCIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T00:16:11.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\germa\\Desktop\\Practicas\\.Net\\Dotnet-learning-path\\src\\01-Fundamentals\\Sintaxis\\Sintaxis\\Program.cs",
-              "RelativeDocumentMoniker": "Sintaxis\\Program.cs",
-              "ToolTip": "C:\\Users\\germa\\Desktop\\Practicas\\.Net\\Dotnet-learning-path\\src\\01-Fundamentals\\Sintaxis\\Sintaxis\\Program.cs",
-              "RelativeToolTip": "Sintaxis\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwCwAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T00:29:24.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-29T00:16:11.013Z"
             }
           ]
         }
